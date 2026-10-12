@@ -1,0 +1,17 @@
+target/
+
+# IDE and local environment files
+.idea/
+.vscode/
+.settings/
+*.iml
+
+# Java / build artifacts
+.classpath
+.project
+.springBeans
+.sts4-cache/
+
+# OS generated files
+.DS_Store
+Thumbs.db
